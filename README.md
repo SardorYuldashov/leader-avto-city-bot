@@ -1,2 +1,2 @@
-# leader-avto-city-bot
+# LIEDERAVTOBOT
 Aiogram Telegram bot
